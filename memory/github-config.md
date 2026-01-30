@@ -19,5 +19,6 @@ git push
 - `skills/` — Publishable skills
 
 ## Notes
-- Remote URL has token embedded for auth
+- Token stored securely in `~/.git-credentials` (gitignored)
+- Git credential helper configured
 - Commit as `claudebz <claudebz@users.noreply.github.com>`

@@ -1,13 +1,50 @@
-# Secrets
+# SECRETS - NEVER COMMIT
 .env
+.env.local
+.env.*
 *.pem
+*.key
 **/config.json
+**/*credentials*
+**/*secret*
+**/*token*
+**/*password*
+.git-credentials
+
+# Private keys & wallets
+**/wallet*
+**/private*
+**/mnemonic*
+**/*.keystore
+
+# API keys & auth
+**/apikey*
+**/api_key*
+**/access_token*
+**/refresh_token*
+**/bearer*
 
 # OS
 .DS_Store
+.AppleDouble
 Thumbs.db
 
-# Temp
+# Temp & logs
 *.tmp
 *.log
+*.lock
+node_modules/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dashboard/personal
+**/terminal*
+**/console*
+**/debug*
 .git-credentials
