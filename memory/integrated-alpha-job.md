@@ -15,13 +15,19 @@
 - Smart money detection (low-FID accounts, never named)
 - Social context + whale backing
 
-### 3️⃣ **Moltbook Integration**
+### 3️⃣ **Account Tracking (New)**
+- Top trending creators + follower velocity (who's gaining followers fastest)
+- Who's discussing hot tokens?
+- Link trending accounts to tokens = creator signal amplification
+- Example: "@creator gaining +2K/day talking about $MOLT" = signal boost
+
+### 4️⃣ **Moltbook Integration**
 - Try to fetch hot posts from moltbook API
 - Graceful fallback if API down (currently is)
 - Extract: Agent consensus on which tokens
 - Example: "Agents talking about $MOLT (5 posts), $CLANKER (3 posts)"
 
-### 4️⃣ **Polymarket/Kalshi Arb Check**
+### 5️⃣ **Polymarket/Kalshi Arb Check**
 - Scan both markets for same event
 - Calculate profit margin: (ask_no - bid_yes) / entry
 - If > 5% profit → Alert "ARB FOUND"
@@ -30,12 +36,12 @@
   - "Polymarket NO at 0.145, Kalshi YES at 0.30 → 107% arb (BUY NOW)"
   - "No arb > 5% currently" (WAIT)
 
-### 5️⃣ **Swap Feed Volume**
+### 6️⃣ **Swap Feed Volume**
 - Real Farcaster trade activity (past 1h)
 - Top tokens by trader count + volume
 - Validates if trending tokens have real buy pressure
 
-### 6️⃣ **Followed Wallets**
+### 7️⃣ **Followed Wallets**
 - Track chintan + other wallets for accumulation
 - If wallet buying same token as trending → Confirmation signal
 
