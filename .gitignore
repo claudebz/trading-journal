@@ -47,4 +47,7 @@ build/
 **/terminal*
 **/console*
 **/debug*
+
+# Skill .env files (API keys)
+skills/**/.env
 .git-credentials
