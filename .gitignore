@@ -1,0 +1,12 @@
+# Secrets
+.env
+*.pem
+**/config.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.log
