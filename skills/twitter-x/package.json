@@ -1,0 +1,22 @@
+{
+  "name": "twitter-x-skill",
+  "version": "1.0.0",
+  "description": "Post to Twitter/X without API keys using Puppeteer + cookies",
+  "main": "scripts/post-tweet.js",
+  "scripts": {
+    "test": "node scripts/post-tweet.js 'Test tweet from twitter-x skill'",
+    "post": "node scripts/post-tweet.js"
+  },
+  "keywords": ["twitter", "x", "puppeteer", "posting", "automation"],
+  "dependencies": {
+    "puppeteer": "^22.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
