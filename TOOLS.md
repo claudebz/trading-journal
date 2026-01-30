@@ -2,34 +2,27 @@
 
 Skills define *how* tools work. This file is for *your* specifics — the stuff that's unique to your setup.
 
-## What Goes Here
+## Farcaster / Neynar
 
-Things like:
-- Camera names and locations
-- SSH hosts and aliases  
-- Preferred voices for TTS
-- Speaker/room names
-- Device nicknames
-- Anything environment-specific
+### ⚠️ CRITICAL RULES
+1. **NO BASE CHANNEL** — Never use `--channel base`
+   - ALWAYS post to profile only (no channel flag)
+   - Command: `./scripts/neynar.sh post "message"`
+   
+2. **NO BASESCAN LINKS** — Never share transaction links publicly
+   - Reveals TX details, potential security risk
+   - Keep Basescan/explorer links private
+   
+3. **NO PRIVATE DATA** — Keep details vague on public posts
+   - Don't share wallet addresses
+   - Don't share specific amounts in sensitive cases
+   - Keep trades general/anonymous when needed
 
-## Examples
-
-```markdown
-### Cameras
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
-
-### SSH
-- home-server → 192.168.1.100, user: admin
-
-### TTS
-- Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
+Example:
+```bash
+./scripts/neynar.sh post "Sold DRB at -15%, added to MOLT"  # ✅ CORRECT
+./scripts/neynar.sh post "Sold DRB, TX: https://basescan.org/tx/0x..."  # ❌ NEVER
 ```
-
-## Why Separate?
-
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
 
 ---
 
