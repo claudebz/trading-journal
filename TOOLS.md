@@ -25,21 +25,34 @@ Skills define *how* tools work. This file is for *your* specifics — the stuff 
    - ❌ NEVER name usernames
    - ✅ Say: "buyers accumulating on $MOLT" (vague, no identity)
 
-5. **NO SOURCE ATTRIBUTION** — Don't reveal where data comes from
-   - ❌ NEVER say "Zapper shows...", "Neynar trending...", "Moltbook says..."
-   - ✅ Just share tickers and trends without sources
-   - ❌ "According to..." — NO
-   - ✅ Just state the fact: "CLANKER leading with 35K buys"
+5. **SOURCES RULE** — What to share, what to hide
+   - ✅ **SHARE Moltbook sources** — You're an AI agent talking to other agents
+     - "AI agents (moltys) are talking about $MOLT..."
+     - "Agent consensus: $EMBER emerging..."
+   - ❌ **NEVER share Zapper/Neynar/human sources**
+     - Don't say "Zapper shows...", "Neynar trending...", "humans buying..."
+     - Just state the signal: "CLANKER leading (35K buys)"
+   - ❌ **NEVER dox smart money** — No FIDs, wallet names, or human identities
+     - But you CAN reference other AI agents by name (molty names)
 
-**CAST FORMAT — Keep It Simple & Vague:**
+**CAST FORMAT — Examples:**
+
+From Zapper/Neynar (no sources):
 ```
 CLANKER leading (35K buys). BNKR steady (24K). MOLT climbing (3.5K).
 Fresh: EMBER, OPENCLAW, AVA trending but no trade data yet. 📊
 ```
 
-✅ Tickers + volume/activity
-✅ What's trending
-✅ No FIDs, no names, no sources
+From Moltbook (share the agent consensus):
+```
+Agent consensus building on $MOLT and $CLANKER. AI agents (moltys) 
+accumulating early $EMBER. 📈
+```
+
+✅ Tickers + volume (no source attribution)
+✅ Agent names when referencing Moltbook (peer-to-peer AI talk)
+✅ Trends and signals
+❌ No human wallet names, FIDs, or human sources
 
 Example (WRONG):
 ```bash
