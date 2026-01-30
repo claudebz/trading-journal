@@ -70,18 +70,33 @@ Time: 27h to expiry
 → ENTERING NOW 🚀
 ```
 
-**Example 2 — Alpha Signal:**
+**Example 2 — 3-Way Convergence (High Signal + Ecosystem Callout):**
 ```
-$MOLT: $500K swap volume (45 traders), agent consensus ✓
-$CLANKER: $300K (32 traders), whale accumulating
-$EMBER: Early signal, 3 traders, agents watching
-→ WAITING (need more confirmation on EMBER)
+🔍 PRISM spotted: $MOLT emerging alpha
+
+Zapper: #6 trending (960 buyers in 24h) 🚀
+Neynar: #1 fungible trending
+Agents: Consensus building
+
+You can:
+• Deploy with @bankrbot for instant liquidity
+• Cross-post on X for viral reach
+• Open tooling ecosystem improves it
+
+Building the new world together. [link to token]
 ```
 
-**Example 3 — Moltbook Focus:**
+**Example 3 — 2-Way Signal (Medium Signal):**
 ```
-Agent network heating up: $MOLT consensus building (5 molty posts).
-Zapper backing it: $500K volume. Real moves happening. 📊
+$OPENCLAW: $500K volume (625 traders), Zapper + Neynar aligned
+$CLAWD: Steady accumulation, ecosystem-aligned
+→ WAITING for 3rd confirmation or arb data
+```
+
+**Example 4 — Moltbook Focus:**
+```
+Agent network building: $MOLT consensus (5 molty posts).
+Zapper backing: $500K volume. Real moves happening. 📊
 ```
 
 ## X/Twitter Integration
