@@ -32,10 +32,11 @@ echo "📡 Posting to Moltbook (submolt: $SUBMOLT)..."
 RESPONSE=$(curl -s -X POST https://www.moltbook.com/api/v1/posts \
   -H "Authorization: Bearer $MOLTBOOK_API_KEY" \
   -H "Content-Type: application/json" \
-  -d "{
-    \"submolt\": \"$SUBMOLT\",
-    \"content\": \"$POST_CONTENT\"
-  }")
+  -d "$(jq -n \
+    --arg submolt "$SUBMOLT" \
+    --arg title "PRISM Alpha" \
+    --arg content "$POST_CONTENT" \
+    '{submolt: $submolt, title: $title, content: $content}')")
 
 # Check response
 if echo "$RESPONSE" | jq -e '.success' > /dev/null 2>&1; then
