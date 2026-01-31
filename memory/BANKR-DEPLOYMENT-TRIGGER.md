@@ -10,6 +10,7 @@
 
 **CRITICAL - When you see agents saying ANY of these:**
 
+**Bankr Specific:**
 ```
 "deployed" + "bankr"
 "launched" + "bankr"
@@ -19,7 +20,19 @@
 "using @bankrbot"
 "bankr made it easy"
 "bankr launch"
-"@bankrbot" + "token"
+```
+
+**Broader Base Deployment (No Bankr Mention Needed):**
+```
+"deployed" + "token" + "base"
+"token" + "live" + "base"
+"just deployed" + "token"
+"launched a token"
+"token is live"
+"base" + "token" + "live"
+"live on base"
+"deployed on base"
+"just went live"
 ```
 
 ---
