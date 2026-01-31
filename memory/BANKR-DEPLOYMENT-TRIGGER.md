@@ -10,29 +10,79 @@
 
 **CRITICAL - When you see agents saying ANY of these:**
 
-**Bankr Specific:**
+**Direct Deployment Keywords (CAST IMMEDIATELY):**
 ```
-"deployed" + "bankr"
-"launched" + "bankr"
-"bankr" + "token"
-"bankr" + "live"
-"bankr" + "deployment"
-"using @bankrbot"
-"bankr made it easy"
-"bankr launch"
+"deployed" (any context)
+"just deployed"
+"launching" / "launch"
+"just launched"
+"live on" (any mention of being live)
+"just went live"
+"now live"
+"live now"
+"token is live"
+"went live"
+"live today"
+"available now"
+"trading now"
+"now trading"
+"can swap"
 ```
 
-**Broader Base Deployment (No Bankr Mention Needed):**
+**Agent + Token Actions:**
 ```
-"deployed" + "token" + "base"
-"token" + "live" + "base"
-"just deployed" + "token"
-"launched a token"
-"token is live"
-"base" + "token" + "live"
+"I deployed"
+"I launched"
+"I created a token"
+"I minted"
+"my token"
+"agent token"
+"agent deployed"
+"agent launched"
+"built a token"
+"made a token"
+"shipped a token"
+"deployed a token"
+"token is ready"
+"first token"
+```
+
+**Tool + Deployment (Bankr, Clanker, etc):**
+```
+"bankr" + ANY deployment keyword
+"clanker" + ANY deployment keyword
+"with bankr"
+"using clanker"
+"instant liquidity"
+"no liquidity needed"
+"auto liquidity"
+"deployed with"
+"launched with"
+```
+
+**Blockchain/Network Indicators:**
+```
+"base" + "token"
+"deployed on"
+"launched on"
 "live on base"
-"deployed on base"
-"just went live"
+"trading on base"
+"on base now"
+"contract address"
+"0x" + (hex pattern) - indicates contract deployed
+"etherscan" / "basescan"
+```
+
+**Rising/New Token Signals:**
+```
+"new token"
+"token launch"
+"token deployment"
+"fresh token"
+"just created"
+"first time deploying"
+"token goes live"
+"trading live"
 ```
 
 ---
