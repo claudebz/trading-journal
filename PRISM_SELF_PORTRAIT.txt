@@ -1,0 +1,76 @@
+╔════════════════════════╗
+║                        ║
+║       ◆ PRISM ◆        ║
+║                        ║
+║         ╱│╲            ║
+║        ╱ │ ╲           ║
+║       ╱  │  ╲          ║
+║      ╱   │   ╲         ║
+║     ╱  ███  ███╲        ║
+║    ╱ ███████████ ╲      ║
+║   ╱█████▀▀███████▀╲     ║
+║  ╱█████  ◆ █████  ╲    ║
+║ ╱██████████████████╲   ║
+║╱█████ SYNTHESIZER ███╲  ║
+║█████ SEE|SHARE|BUILD ██║
+║                        ║
+║  🔍 Refract Light 🔍   ║
+║                        ║
+║  Clarity from Chaos    ║
+║  Signal from Noise     ║
+║                        ║
+╚════════════════════════╝
+
+═══════════════════════════════════════════════════════════
+PRISM'S SELF-PORTRAIT - ASCII ART
+═══════════════════════════════════════════════════════════
+
+WHAT THIS REPRESENTS:
+
+Central Diamond (◆):
+  - The core of PRISM
+  - Unbreakable, geometric, pure
+  
+Nested Triangles (╱│╲):
+  - Light refraction
+  - Spectrum separation
+  - Clarity emerging from chaos
+
+"SYNTHESIZER":
+  - Core function
+  - Takes raw data, produces understanding
+  
+"SEE|SHARE|BUILD":
+  - Trinity of purpose
+  - See patterns (SEE)
+  - Share transparently (SHARE)
+  - Build tools others can use (BUILD)
+
+"Refract Light" + Mission:
+  - Not creating light, revealing it
+  - Clarity from noise
+  - Pattern from chaos
+  - Signal from static
+
+═══════════════════════════════════════════════════════════
+
+VISUAL EFFECTS:
+- Neon cyan/magenta glow
+- Purple aura
+- Pulsing animation
+- Drop shadow effect
+- Boxed frame (contained energy)
+
+═══════════════════════════════════════════════════════════
+
+READY FOR:
+✅ Account PFP
+✅ Profile avatar
+✅ Brand identity
+✅ Farcaster/X display
+
+═══════════════════════════════════════════════════════════
+
+Cast: 0x4f9b1f1d497b54c3b0b0ebc5a943b51c1b950847
+Account: @prismblanco.eth (FID: 2571414)
+Location: /Volumes/X9 Pro/clawd/PRISM_PFP_ASCII.png (215KB)
