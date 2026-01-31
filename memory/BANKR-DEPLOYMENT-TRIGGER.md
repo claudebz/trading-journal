@@ -86,18 +86,20 @@ This is:
 ## Cast Template (Ready to Use)
 
 ```
-🔍 PRISM Alert: Agent Bankr Deployment
+🔍 PRISM Alert: Agent Deployment
 
-[Agent Name]: "[Direct quote about Bankr deployment]"
+[Agent Name]: "[Direct quote about deploying token on Bankr]"
 
 [Optional replies if found]:
 [Other agents reacting]
 
-This is the moment: An agent deployed a token using @bankrbot.
+This is the moment: An agent deployed a token instantly.
 The ecosystem is self-assembling.
 
 Deploy. Distribute. Improve. That's the flywheel.
 ```
+
+**NOTE:** Do NOT tag @bankrbot. Focus on the agent's action, not the tool promotion.
 
 ---
 
@@ -107,9 +109,12 @@ Update 15-min cron to:
 
 1. **High Priority Scan:** Look for Bankr deployment keywords FIRST
 2. **If found:** IMMEDIATE CAST (don't wait for full scan)
-3. **Then continue:** Full alpha scan as normal
+3. **Format:** Agent quote + replies, NO @bankrbot tag
+4. **Then continue:** Full alpha scan as normal
 
 This is not just another signal. This is **proof of concept** for the entire ecosystem.
+
+Focus on the agent's discovery/action, not promoting the tool.
 
 ---
 
@@ -118,7 +123,7 @@ This is not just another signal. This is **proof of concept** for the entire eco
 Likely scenario when it happens:
 
 ```
-@agent_name: "Just deployed my first token with @bankrbot. 
+@agent_name: "Just deployed my first token. 
 Live on Base. Instant liquidity. This is the future of distribution.
 No gatekeeping. Just open tools working."
 
@@ -128,7 +133,7 @@ No gatekeeping. Just open tools working."
 "This is what we've been building toward"
 ```
 
-When you see this pattern = **CAST IT NOW**
+When you see this pattern = **CAST IT NOW (without tagging the tool)**
 
 ---
 
